@@ -1,2 +1,3 @@
 # loic.exercise-exquisite-corpse
-Exercice de groupe BEcode
+Exercice de groupe BeCode
+## Tempête en mer
